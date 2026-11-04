@@ -24,7 +24,7 @@ Watch the real-time physical testbed comparison between **Uncontrolled Mode 0** 
 The testbed features an elevated vertical support frame, a 12V brushed DC motor with a circular wheel hub, a 30 cm flexible polystyrene ruler acting as the cantilever link, a tip-mounted MPU-6050 accelerometer, an L298N motor driver, and an isolated 3S Li-ion battery pack.
 
 <p align="center">
-  <img src="hardware/hardware_setup.jpg" alt="Physical Hardware Setup" width="700">
+  <img src="hardware/hardware_setup.png" alt="Physical Hardware Setup" width="480">
 </p>
 
 ### ADRC Closed-Loop Control Architecture
