@@ -1,0 +1,33 @@
+# Compiled files and binaries
+*.bin
+*.elf
+*.hex
+*.o
+*.out
+
+# Arduino & PlatformIO
+.pio/
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+build/
+
+# TeX / LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
