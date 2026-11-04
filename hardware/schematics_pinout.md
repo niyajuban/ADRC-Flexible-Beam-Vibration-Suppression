@@ -23,7 +23,7 @@ This document provides complete connection tables, pinout assignments, power sup
 | **3S Li-ion Battery** | Positive | L298N `+12V` | $11.1\text{ V}$ nominal, $12.6\text{ V}$ peak |
 | | Negative | L298N `GND` | Common ground tie point |
 
-> **IMPORTANT:** Ensure that the ground of the 3S battery pack, the L298N motor driver `GND`, and the ESP32 development board `GND` are all tied together to establish a shared reference potential.
+
 
 ---
 
